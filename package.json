@@ -1,0 +1,19 @@
+{
+  "name": "gamepad",
+  "version": "1.0.0",
+  "description": "A demo of the gamepad API",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "http-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gamepad",
+    "javascript"
+  ],
+  "author": "Rob Brander",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
